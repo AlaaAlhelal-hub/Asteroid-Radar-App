@@ -6,6 +6,16 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorSecondary">@color/default_text_color</item>
     </style>
 
+    <style name="Asteroid.Name" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/default_text_color</item>
+        <item name="android:textSize">22dp</item>
+    </style>
+
+    <style name="Asteroid.Date" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/text_grey</item>
+        <item name="android:textSize">18dp</item>
+    </style>
 </resources>
