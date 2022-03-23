@@ -34,7 +34,6 @@
                 android:layout_height="wrap_content"
                 tools:text="asteroid name"
                 android:text="@{asteroid.codeName}"
-                android:contentDescription="@string/asteroid_code_name"
                 style="@style/Asteroid.Name"
                 android:paddingTop="@dimen/small_padding"/>
 
@@ -44,7 +43,6 @@
                 android:layout_height="wrap_content"
                 tools:text="2020-6-19"
                 android:text="@{asteroid.closeApproachDate}"
-                android:contentDescription="@string/close_approach_data_title"
                 style="@style/Asteroid.Date"
                 android:paddingBottom="@dimen/small_padding"/>
 
