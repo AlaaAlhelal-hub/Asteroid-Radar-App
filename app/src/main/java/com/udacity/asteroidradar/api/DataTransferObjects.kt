@@ -2,7 +2,6 @@ package com.udacity.asteroidradar.api
 
 import com.squareup.moshi.JsonClass
 import com.udacity.asteroidradar.Asteroid
-import com.udacity.asteroidradar.PictureOfDay
 import com.udacity.asteroidradar.database.AsteroidTable
 
 

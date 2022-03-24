@@ -21,4 +21,5 @@
     <string name="nasa_picture_of_day_content_description_format">NASA\'s picture of day: %s</string>
     <string name="asteroid_status_image">ad status iconsteroi</string>
     <string name="asteroid_code_name">asteroid code name</string>
+    <string name="help_button">Help button</string>
 </resources>
